@@ -1,4 +1,4 @@
-I=int(input())
-while(I!= 0):
+n=int(input())
+while(n!= 0):
   print("Hello")
-  I--
+  n--
